@@ -4,7 +4,7 @@ title: "NaijaSecForce"
 description: "Official Blog of the NaijaSecForce Group"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: /mediumish-theme-jekyll
+baseurl: /mediumish-theme-jekyll/index.html
 google_analytics: ''
 disqus: 'demowebsite'
 mailchimp-list: ''
