@@ -11,6 +11,7 @@ disqus: ''
 mailchimp-list: ''
 include: ["_pages"]
 permalink: /:title/
+future: true
 
 # Authors
 authors:
