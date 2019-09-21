@@ -3,7 +3,7 @@ name: "NaijaSecForce"
 title: "NaijaSecForce"
 description: "Official Blog of the NaijaSecForce Group"
 logo: '../naijasecforce_blog/assets/images/logo.png'
-favicon: '../naijasecforce_blog/assets/images/logo.png'
+favicon: '../assets/images/logo.png'
 # baseurl: /mediumish-theme-jekyll/index.html
 baseurl: '/naijasecforce_blog'
 google_analytics: ''
@@ -12,6 +12,9 @@ mailchimp-list: ''
 include: ["_pages"]
 permalink: /:title/
 future: true
+
+# Version number
+build: 20190921
 
 # Authors
 authors:
